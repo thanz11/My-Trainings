@@ -1,0 +1,10 @@
+Class Sum{
+
+int a=1;
+int b=6;
+public static void main(String Args[])
+{
+int sum1= a+b;
+System.out.println(sum1);
+}
+}
